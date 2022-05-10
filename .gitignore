@@ -99,3 +99,5 @@ src/tbb/win32-gcc-tbb-export.def
 .svn
 crash*
 *.tmp
+/out/build
+/.vs
